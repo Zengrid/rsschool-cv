@@ -1,13 +1,16 @@
 ###
 *Vladislave Bulich*
 ===
-##Contacts:
+##
+Contacts:
     *E-mail: zengridosik@gmail.com
     *Discord: zengrid#8413
     *Tel: +375445133669
 ---
-##About myself: I want to learn Front-End Development in RSSchool!
+##
+About myself: I want to learn Front-End Development in RSSchool!
 ---
+##
 Code example:
 '''
 <html>
@@ -20,14 +23,17 @@ Code example:
 </html>
 '''
 ---
-##work experience:
+##
+Work experience:
 Nothing yet…
 ---
-##Education
+##
+Education
 *computer operator
 *specialist dog handler
 ---
-##Language:
+##
+Language:
 -Russian - Native
 -Belarusian - Native
 -English level - A2
