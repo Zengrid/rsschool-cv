@@ -3,9 +3,9 @@
 ===
 ##
 Contacts:
-    *E-mail: zengridosik@gmail.com
-    *Discord: zengrid#8413
-    *Tel: +375445133669
+    * E-mail: zengridosik@gmail.com
+    * Discord: zengrid#8413
+    * Tel: +375445133669
 ---
 ##
 About myself: I want to learn Front-End Development in RSSchool!
@@ -29,12 +29,12 @@ Nothing yet…
 ---
 ##
 Education
-*computer operator
-*specialist dog handler
+* computer operator
+* specialist dog handler
 ---
 ##
 Language:
--Russian - Native
--Belarusian - Native
--English level - A2
+- Russian - Native
+- Belarusian - Native
+- English level - A2
 ---
